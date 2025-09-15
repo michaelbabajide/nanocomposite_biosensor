@@ -4,3 +4,4 @@
 - Feedback resistor
 - Calibrating resistor
 - Arduino Uno
+- Interdigitated Electrodes (IDE)
