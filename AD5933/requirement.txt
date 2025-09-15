@@ -1,0 +1,5 @@
+- AD5933 IC
+- Pull-up resistors
+- Coupling capacitors
+- Feedback resistor
+- Calibrating resisto
