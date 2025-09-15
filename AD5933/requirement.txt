@@ -2,4 +2,5 @@
 - Pull-up resistors
 - Coupling capacitors
 - Feedback resistor
-- Calibrating resisto
+- Calibrating resistor
+- Arduino Uno
